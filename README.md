@@ -10,8 +10,6 @@ Inbound Mobility Ratio(%): the number of foreign students studying in a specific
 Outbound Mobility Ratio(%): the number of domestic students studying abroad from particular country relative to its total tertiary enrolment. This ratio highlights on how many students want to pursue education outside their home countries.
 
 
-
-
 ## Tools
 
 Python's Pandas Library
@@ -58,8 +56,8 @@ Average mobility among economic groups:
 
 
 ## Dashboard Images 
-[Dashboard 1](./Dashboard-images/Dashboard-1-study-mobility.png)
-[Dashboard 2](./Dashboard-images/Dashboard-2-study-mobility.png)
+![Dashboard 1](./Dashboard-images/Dashboard-1-study-mobility.png)
+![Dashboard 2](./Dashboard-images/Dashboard-2-study-mobility.png)
 
 
 ## Acknowledgements
